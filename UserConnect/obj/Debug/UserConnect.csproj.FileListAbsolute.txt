@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\UserConnect.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\UserConnect.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\UserConnect.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.FnPrincipalp.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\UserConnect\UserConnect\obj\Debug\UserConnect.Form2.resources
